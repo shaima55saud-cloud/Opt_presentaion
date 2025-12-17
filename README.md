@@ -43,3 +43,5 @@ This helps the algorithm avoid getting stuck in local minima.
 At each temperature level, we run a fixed number of inner iterations to allow enough exploration before moving to the next temperature.
 
 Finally, even though Simulated Annealing does have memory, we track the best solution found during the entire run to ensure the final result is the best tour discovered.
+
+Afraa will now explain the GA algorithm.
